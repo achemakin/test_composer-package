@@ -1,0 +1,16 @@
+{
+    "name": "achemakin/test_composer-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Achemakin\\TestComposerPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ALEXANDR CHEMAKIN",
+            "email": "kotor79@gmail.com"
+        }
+    ],
+    "require": {}
+}
